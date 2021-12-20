@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### Average Terminal Enjoyer
 
+
+
+<a href="https://app.daily.dev/Gurnita"><img src="https://api.daily.dev/devcards/83e9b40460824eb8a7a6635c8591b716.png?r=dfs" width="400" alt="Squiddy's Dev Card"/></a>
 <!--
 **Squid-Squid/Squid-Squid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
